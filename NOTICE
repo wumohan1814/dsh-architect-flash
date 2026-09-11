@@ -1,0 +1,21 @@
+English
+=======
+
+agent.cordis.yml is adapted from the DeepSeek Harness built-in `standard` agent
+preset (MIT). On top of its native tool presentation it adds the `code_flash`
+subagent (@deepseek-ai/dsh-tool-subagent), which follows the session's
+`subagent-model-selection` sub-model (no hardcoded route), with a restricted
+native implementation tool catalog.
+
+See the upstream DeepSeek Harness repository for the original copyright and MIT
+license notices.
+
+中文
+====
+
+agent.cordis.yml 改编自 DeepSeek Harness 内置的 `standard` agent preset（MIT），
+在其原生工具呈现之上新增 `code_flash` 子代理（@deepseek-ai/dsh-tool-subagent），
+跟随会话 `subagent-model-selection` 的子模型选择（不硬编码路由），并限制原生实现
+工具目录。
+
+原始 DeepSeek 版权和 MIT 许可声明见上游 DeepSeek Harness 仓库。

@@ -1,0 +1,2 @@
+name: 架构师模式（Pro+Flash）
+description: 原生工具呈现 + Pro/Flash 分级：架构规划与审查用主模型（Pro），低级/重复性代码实现委托给子模型代码工（code_flash，跟随 sub-agent 子代理选择，无硬编码路由），让代码构筑不消耗 Pro token。
